@@ -5,10 +5,8 @@
 ## 1. Создайте пустой репозиторий на сервисе github.com (или `gitlab.com`, или `bitbucket.com`)
 
 ```
-https://github.com/ledibonibell/lab-02.git
+https://github.com/mikhazanyat/lab-01
 ```
-![Снимок экрана от 2023-02-28 21-43-26](https://user-images.githubusercontent.com/125737299/221953387-dca12309-fdea-4c3a-a4ed-d04f5f39d981.png)
-
 
 ## 2. Выполните инструкцию по созданию первого коммита на странице репозитория, созданного на предыдещем шаге
  
@@ -18,7 +16,7 @@ $ echo "# lab-02" >> README.md
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
-$ git remote add origin https://github.com/ledibonibell/lab-02.git
+$ git remote add origin https://github.com/mikhazanyat/lab-01
 $ git push -u origin master
 ```
 
@@ -239,7 +237,7 @@ Conflicts have disappeared
 
 ## 9. Вмержите `pull-request` `patch2 -> master`
 
-![Снимок экрана от 2023-02-28 22-00-10](https://user-images.githubusercontent.com/125737299/221953495-d5b3ee13-e6d2-474b-b8d8-abbcfe731b00.png)
+
 
 ## Required libraries
 
